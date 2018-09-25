@@ -1,0 +1,52 @@
+footer{
+  text-align: center;
+  background: #4e45c7;
+  padding: 50px 0;
+}
+footer h3{
+  font-size: 2rem;
+  text-transform: uppercase;
+  font-weight: 600;
+  margin-bottom: 30px;
+  color: white;
+}
+footer .orange{
+  color: #fea83b;
+}
+footer .menu{
+  display: inline-block;
+  text-transform: uppercase;
+  font-size: 10px;
+  font-weight: 600;
+  margin-bottom: 30px;
+  color: white;
+}
+footer .menu li{
+  display: inline-block;
+  margin-right: 15px;
+}
+footer p{
+  font-size: 10px;
+  margin-bottom: 20px;
+  color: white;
+}
+footer .social{
+  font-size: 1.5rem;
+  color: #a6a1e7;
+}
+footer .social li{
+  display: inline-block;
+  margin-right: 25px;
+}
+/* desktop */
+@media only screen and (max-width: 1343px) {
+
+}
+/* tablets */
+@media only screen and (max-width: 968px) {
+
+}
+/* mobile */
+@media only screen and (max-width: 600px) {
+
+}

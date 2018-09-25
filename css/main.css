@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700');
+@import "../../reset.css";
+@import "landing-page/header.css";
+@import "landing-page/top-jumbo.css";
+@import "landing-page/design-by.css";
+@import "landing-page/color-collection.css";
+@import "landing-page/blueprint.css";
+@import "landing-page/latest.css";
+@import "landing-page/footer.css";
+
+.orange-link{
+  color: #e59b6b;
+}
+.purple-link{
+  color: #e57be8;
+}
+.blue-link{
+  color: #82ded7;
+}
+
+.container{
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+.container-fluid{
+  margin: 0 3%;
+  padding: 0 20px;
+}
+.box-shadow-default{
+  -webkit-box-shadow: 1px 9px 50px 12px rgba(0,0,0,0.13);
+  -moz-box-shadow: 1px 9px 50px 12px rgba(0,0,0,0.13);
+  box-shadow: 1px 9px 50px 12px rgba(0,0,0,0.13);
+}
+.box-shadow-down{
+  -webkit-box-shadow: 10px 10px 11px -4px rgba(0,0,0,0.13);
+  -moz-box-shadow: 10px 10px 11px -4px rgba(0,0,0,0.13);
+  box-shadow: 10px 10px 11px -4px rgba(0,0,0,0.13);
+}
+/* desktop */
+@media only screen and (max-width: 1343px) {
+
+}
+/* tablets */
+@media only screen and (max-width: 968px) {
+
+}
+/* mobile */
+@media only screen and (max-width: 600px) {
+
+}
